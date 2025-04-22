@@ -46,4 +46,4 @@ https://github.com/t8140140/talos-project/assets/15681263/8a96e4f3-48ad-4b51-9b8
 
 ## Reference
 * Using and modifying the scripts for ROS2 control from this tutorial: https://www.youtube.com/watch?v=XqibXP4lwgA&ab_channel=robotmania
-* Using the [re-trained weights for the fire detection from here: https://github.com/spacewalk01/yolov5-fire-detection/tree/main
+* Using the pre-trained weights for the fire detection from here: https://github.com/spacewalk01/yolov5-fire-detection/tree/main
